@@ -8,7 +8,7 @@ import { useGLTF, PresentationControls, Environment, ContactShadows, Html } from
 // import LaptopImage from '../public/images/Intellipod1.png'
 // import LaptopImage from '../public/images/Intellipod1.png'
 const { nodes, materials } = useGLTF('../public/images/Intellipod1.gltf');
-// import LaptopImage from '/images/Intellipod1.png'
+import LaptopImage from '/images/Intellipod1.png'
 
 // 3D Laptop Model Component
 function Model(props) {
